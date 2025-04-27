@@ -89,7 +89,7 @@ cd /
 mkdir proxy
 cd proxy
 ```
-Dentro desse diretório vai o arquivo nginx.config
+Dentro desse diretório vai o arquivo nginx.conf
 
 Após criamos um dockerfile
 ```
